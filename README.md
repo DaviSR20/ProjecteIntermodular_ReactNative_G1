@@ -1,0 +1,1 @@
+# ProjecteIntermodular_ReactNative_G1
